@@ -9,7 +9,6 @@ Given a labeled dataset of sensor readings, the goal is to train a neural networ
 The following steps were followed:
 
 ## Data Preprocessing:
-* Removed irrelevant rows
 * Handled missing values using SimpleImputer
 * Normalized features using StandardScaler
 * Addressed class imbalance using class_weight
