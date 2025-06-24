@@ -1,4 +1,4 @@
-# ann_fault_detection
+# ANN fault detection
 
 This repository contains my solution to the Artificial Neural Network (ANN) Fault Detection Challenge hosted by ML league. The task was to develop an optimal ANN-based binary classification model to detect faults in a system using sensor data.
 
